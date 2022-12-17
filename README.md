@@ -39,4 +39,4 @@ Utilizando apenas **PYTHON** e as bibliotecas:
 
 
 
-<p align="center">Copyright © 2022 michele rocha</p>
+<p align="center">Copyright © 2022 Edson Martins</p>
